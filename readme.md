@@ -13,7 +13,10 @@
     Por último, realizar pruebas unitarias en la solución
     proporcionada, podríamos considerar los siguientes casosde prueba:
     - Agregar Mascota:
-    - Verificar que una mascota se agregue correctamente al inventario.   Verificar que la cantidad de mascotas en el inventario se actualice correctamente después de agregar una mascota.
+    - Verificar que una mascota se agregue
+      correctamente al inventario. Verificar que la cantidad de
+      mascotas en el inventario se actualicecorrectamente
+      después de agregar una mascota.
     - Vender Mascota:
 
     - Verificar que una mascota se venda correctamente del inventario.
