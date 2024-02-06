@@ -17,9 +17,13 @@
     - Vender Mascota:
 
     - Verificar que una mascota se venda correctamente del inventario.
-    - Verificar que la cantidad de mascotas en el inventario se actualice correctamente después de vender una mascota.
-    - Verificar que si se intenta vender una mascota que no está en el inventario, se maneje adecuadamente.
+    - Verificar que la cantidad de mascotas en el inventario se
+      actualice correctamente después de vender una mascota.
+    - Verificar que si se intenta vender una mascota que no está
+      en el inventario, se maneje adecuadamente.
     - Mostrar Inventario:
 
-    - Verificar que se muestre correctamente el inventario con todas las mascotas disponibles.
-    - Verificar que si no hay mascotas en el inventario, se muestre un mensaje adecuado.
+    - Verificar que se muestre correctamente el inventario
+      con todas las mascotas disponibles.
+    - Verificar que si no hay mascotas en el inventario, se
+      muestre un mensaje adecuado.
