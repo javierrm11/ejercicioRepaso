@@ -24,6 +24,7 @@ public class TiendaMascotas {
                     }
                     cantidadMascotas--;
                     System.out.println("La mascota se ha vendido correctamente");
+                    return;
                 }
                 else {
                     System.out.println("Este animal no existe en nuestra tienda");
